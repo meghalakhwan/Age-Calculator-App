@@ -20,15 +20,18 @@
     margin-top: 10%;
 }
 
-.calculator h1{
+.calculator h1
+{
     font-size: 60px;   
 }
 
-.calculator h1 span{
+.calculator h1 span
+{
 color: #ffff76;
 }
 
-.input-box{
+.input-box
+{
     margin: 40px 0;
     padding: 35px;
     border-radius: 10px;
@@ -38,6 +41,7 @@ color: #ffff76;
 }
 
 .input-box input{
+
     flex: 1;
     margin-right: 20px;
     padding: 14px 20px;
@@ -46,4 +50,5 @@ color: #ffff76;
     font-size: 18px;
     border-radius: 5px;
     position: relative;
+
 }
